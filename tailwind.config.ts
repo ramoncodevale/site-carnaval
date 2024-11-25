@@ -8,6 +8,10 @@ export default {
   ],
   theme: {
     extend: {
+      width: {
+        customWidthInput: "348px",
+        customWidth: "993px",
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
