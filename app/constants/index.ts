@@ -7,7 +7,6 @@ export const blocosCarnaval = [
     description:
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     image: Images.Profile1,
-    icon: Images.MapPin,
     location: "São Paulo - SP",
   },
   {
@@ -16,7 +15,6 @@ export const blocosCarnaval = [
     description:
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     image: Images.Profile2,
-    icon: Images.MapPin,
     location: "Florianopólis - SC",
   },
   {
@@ -25,7 +23,6 @@ export const blocosCarnaval = [
     description:
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     image: Images.Profile3,
-    icon: Images.MapPin,
     location: "Curitiba - PR",
   },
   {
@@ -34,7 +31,6 @@ export const blocosCarnaval = [
     description:
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     image: Images.Profile4,
-    icon: Images.MapPin,
     location: "Salvador - BA",
   },
   {
@@ -43,7 +39,6 @@ export const blocosCarnaval = [
     description:
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     image: Images.Profile5,
-    icon: Images.MapPin,
     location: "São Paulo - SP",
   },
   {
@@ -52,7 +47,6 @@ export const blocosCarnaval = [
     description:
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     image: Images.Profile6,
-    icon: Images.MapPin,
     location: "São Paulo - SP",
   },
   {
@@ -61,7 +55,6 @@ export const blocosCarnaval = [
     description:
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     image: Images.Profile7,
-    icon: Images.MapPin,
     location: "Rio de Janeiro - RJ",
   },
   {
@@ -70,7 +63,6 @@ export const blocosCarnaval = [
     description:
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     image: Images.Profile8,
-    icon: Images.MapPin,
     location: "Porto Alegre - RS",
   },
   {
@@ -79,7 +71,6 @@ export const blocosCarnaval = [
     description:
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     image: Images.Profile9,
-    icon: Images.MapPin,
     location: "São Paulo - SP",
   },
 ];

@@ -1,4 +1,5 @@
 import { MapPin, Search } from "lucide-react";
+import Cards from "./components/cards";
 
 const Home = () => {
   return (
@@ -52,6 +53,9 @@ const Home = () => {
             MAPA
           </button>
         </div>
+      </div>
+      <div>
+        <Cards />
       </div>
     </section>
   );
